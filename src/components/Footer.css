@@ -1,0 +1,21 @@
+/* Footer.css */
+
+.footer {
+  background-color: #f0f9ff;
+  text-align: center;
+  padding: 16px;
+  font-size: 14px;
+  color: #555;
+  margin-top: 40px;
+}
+.footer-links a {
+  margin: 0 12px;
+  color: #1e3a8a;
+  text-decoration: none;
+}
+
+.footer-links a.footer-emergency {
+  color: red;
+  font-weight: bold;
+  font-size: 30px;
+}

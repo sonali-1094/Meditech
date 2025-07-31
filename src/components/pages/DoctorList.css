@@ -1,0 +1,77 @@
+/* DoctorList.css */
+
+.doctor-container {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.doctor-heading {
+  font-size: 28px;
+  color: #1e40af;
+  margin-bottom: 30px;
+}
+
+.doctor-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+}
+
+.doctor-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  width: 260px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s;
+}
+
+.doctor-card:hover {
+  transform: translateY(-5px);
+}
+
+.doctor-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.doctor-spec {
+  color: #555;
+  margin: 5px 0 15px 0;
+  font-style: italic;
+}
+
+.book-btn {
+  background-color: #2563eb;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.book-btn:hover {
+  background-color: #1d4ed8;
+}
+
+.show-more-btn {
+  margin-top: 30px;
+  padding: 10px 20px;
+  background-color: #1e40af;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.show-more-btn:hover {
+  background-color: #1e3a8a;
+}

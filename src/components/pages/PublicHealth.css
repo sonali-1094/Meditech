@@ -1,0 +1,24 @@
+.public-health {
+  padding: 20px;
+  text-align: center;
+}
+
+.article {
+  background: #f0f9ff;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 600px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.article h3 {
+  color: #1e40af;
+}
+
+.article a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #2563eb;
+  text-decoration: underline;
+}

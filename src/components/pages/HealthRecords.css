@@ -1,0 +1,8 @@
+.record-container {
+  padding: 40px;
+  text-align: center;
+}
+
+input[type="file"] {
+  margin-top: 20px;
+}
