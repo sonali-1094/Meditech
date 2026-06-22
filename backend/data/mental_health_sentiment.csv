@@ -1,0 +1,13 @@
+text,sentiment
+"I feel calm and hopeful today",positive
+"I slept well and feel better",positive
+"I am grateful and motivated",positive
+"I feel okay but a little tired",neutral
+"Nothing major happened today",neutral
+"I am unsure how I feel",neutral
+"I feel anxious and stressed all day",negative
+"I am sad alone and exhausted",negative
+"Panic and fear are making it hard to work",negative
+"I feel hopeless and worthless",crisis
+"I am thinking about self harm",crisis
+"I do not want to live",crisis

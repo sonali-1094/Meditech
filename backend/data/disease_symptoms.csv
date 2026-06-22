@@ -1,0 +1,15 @@
+symptoms,condition
+"fever cough sore throat fatigue",possible respiratory infection
+"cough wheezing shortness of breath chest tightness",possible respiratory infection
+"chest pain pressure sweating nausea",possible cardiac concern
+"palpitations chest discomfort dizziness",possible cardiac concern
+"excessive thirst frequent urination weight loss fatigue",possible diabetes risk
+"high glucose thirst blurry vision",possible diabetes risk
+"rash itching red skin swelling",possible dermatology concern
+"skin patches itch burning",possible dermatology concern
+"severe headache dizziness numbness vision changes",possible neurological concern
+"migraine nausea light sensitivity",possible neurological concern
+"sad anxious panic insomnia low mood",possible mental health concern
+"stress worry hopeless poor sleep",possible mental health concern
+"stomach pain nausea loose motions",general primary care concern
+"body ache mild fever tired",general primary care concern
